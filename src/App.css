@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  margin-top: 1rem;
+}
+.number {
+  width: 100%;
+  height: 5rem;
+  border: 1px solid #333;
+}
+
+#display {
+  height: 45px;
+}
+
+#calc-body {
+  width: 400px;
+  border: 2px solid #333;
+  padding: 2rem;
+}
+#display {
+  padding: 1rem;
+}
+
+/* background-image: url("https://w.wallhaven.cc/full/4g/wallhaven-4g5j63.jpg"); */
